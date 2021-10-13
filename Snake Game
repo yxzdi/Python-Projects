@@ -1,3 +1,8 @@
+# This code DOES NOT work properly. It's still an ongoing project.
+
+
+
+
 import turtle
 import time
 import random
